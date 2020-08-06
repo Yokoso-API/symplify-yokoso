@@ -1,0 +1,22 @@
+{
+  "name": "simplify-yokoso",
+  "version": "0.1.0",
+  "description": "simplify-yokoso is the official npm module for yokoso api.",
+  "keywords": [
+    "yokoso",
+    "anime",
+    "api",
+    "social"
+  ],
+  "homepage": "https://github.com/eagles666/symplify-yokoso/blob/master/README.md",
+  "license": "MIT",
+  "main": "/src/yokoso.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eagles666/symplify-yokoso"
+  },
+  "author": "eagles666",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
