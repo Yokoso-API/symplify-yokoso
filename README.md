@@ -54,4 +54,4 @@ Vous pouvez retrouver la documentation de l'api en cliquant [ici](https://yokoso
 
 ## License
 
-[MIT](https://github.com/Shaynlink/node-anemy/blob/master/LICENSE)
+[MIT](https://github.com/eagles666/symplify-yokoso/blob/master/LICENSE)
